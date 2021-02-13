@@ -1,0 +1,221 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "ui.CheckUiCases",
+    "children" : [ {
+      "name" : "checkFilterItemsTest",
+      "uid" : "3536e375e9717da2",
+      "parentUid" : "9fc6509659d7ae209edef1cc75cd1782",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613258028579,
+        "stop" : 1613258033826,
+        "duration" : 5247
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "ui.base.SearchFilter@321e503" ]
+    }, {
+      "name" : "mainPageNavBarTest",
+      "uid" : "6ab2b48c812ab56c",
+      "parentUid" : "9fc6509659d7ae209edef1cc75cd1782",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613258105316,
+        "stop" : 1613258106491,
+        "duration" : 1175
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "ui.base.NavBarMenu@1df49e6c" ]
+    }, {
+      "name" : "checkFilterItemsTest",
+      "uid" : "26f3427a05a1adb0",
+      "parentUid" : "9fc6509659d7ae209edef1cc75cd1782",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613258384021,
+        "stop" : 1613258389226,
+        "duration" : 5205
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "ui.base.SearchFilter@5dca6386" ]
+    }, {
+      "name" : "mainPageNavBarTest",
+      "uid" : "4a28e2ff1a8afd6",
+      "parentUid" : "9fc6509659d7ae209edef1cc75cd1782",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613258459547,
+        "stop" : 1613258460674,
+        "duration" : 1127
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "ui.base.NavBarMenu@5fcd88c0" ]
+    }, {
+      "name" : "checkFilterItemsTest",
+      "uid" : "5a5573bd8a2b5b8e",
+      "parentUid" : "9fc6509659d7ae209edef1cc75cd1782",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613258730357,
+        "stop" : 1613258735404,
+        "duration" : 5047
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "ui.base.SearchFilter@67c65978" ]
+    }, {
+      "name" : "mainPageNavBarTest",
+      "uid" : "58cd0780acb82f10",
+      "parentUid" : "9fc6509659d7ae209edef1cc75cd1782",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613258806271,
+        "stop" : 1613258807447,
+        "duration" : 1176
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "ui.base.NavBarMenu@526b58b7" ]
+    }, {
+      "name" : "checkFilterItemsTest",
+      "uid" : "cc751a449d050292",
+      "parentUid" : "9fc6509659d7ae209edef1cc75cd1782",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613258970158,
+        "stop" : 1613258975429,
+        "duration" : 5271
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "ui.base.SearchFilter@5f8e3995" ]
+    }, {
+      "name" : "mainPageNavBarTest",
+      "uid" : "1422f351696524be",
+      "parentUid" : "9fc6509659d7ae209edef1cc75cd1782",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613259047615,
+        "stop" : 1613259048755,
+        "duration" : 1140
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "ui.base.NavBarMenu@33878b16" ]
+    }, {
+      "name" : "checkEducationPageTest",
+      "uid" : "ca161d0d23c7b8fd",
+      "parentUid" : "9fc6509659d7ae209edef1cc75cd1782",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613260278466,
+        "stop" : 1613260299086,
+        "duration" : 20620
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "checkFilterItemsTest",
+      "uid" : "2098ca72f3415f77",
+      "parentUid" : "9fc6509659d7ae209edef1cc75cd1782",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613260317059,
+        "stop" : 1613260322612,
+        "duration" : 5553
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "ui.base.SearchFilter@5754fe84" ]
+    }, {
+      "name" : "checkSearchResultsTest",
+      "uid" : "fa9763293ec1790f",
+      "parentUid" : "9fc6509659d7ae209edef1cc75cd1782",
+      "status" : "failed",
+      "time" : {
+        "start" : 1613260340293,
+        "stop" : 1613260356843,
+        "duration" : 16550
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "enterDataInSearchFieldTest",
+      "uid" : "43404f841886b2e5",
+      "parentUid" : "9fc6509659d7ae209edef1cc75cd1782",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613260374660,
+        "stop" : 1613260376236,
+        "duration" : 1576
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "mainPageNavBarTest",
+      "uid" : "b722d54d4b29e208",
+      "parentUid" : "9fc6509659d7ae209edef1cc75cd1782",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613260393622,
+        "stop" : 1613260395076,
+        "duration" : 1454
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "ui.base.NavBarMenu@2f66d322" ]
+    } ],
+    "uid" : "ui.CheckUiCases"
+  }, {
+    "name" : "api.ApiTests",
+    "children" : [ {
+      "name" : "checkDelayEndpoint",
+      "uid" : "c59334fef904547f",
+      "parentUid" : "6a9652ce5a875142c9400a3788a5b1fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613260216763,
+        "stop" : 1613260252015,
+        "duration" : 35252
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "checkPngEndpoint",
+      "uid" : "b1d949eb4badfece",
+      "parentUid" : "6a9652ce5a875142c9400a3788a5b1fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613260252207,
+        "stop" : 1613260256022,
+        "duration" : 3815
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "checkSearchResults",
+      "uid" : "31a84f4002857898",
+      "parentUid" : "6a9652ce5a875142c9400a3788a5b1fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613260256026,
+        "stop" : 1613260257507,
+        "duration" : 1481
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "api.ApiTests"
+  } ]
+}

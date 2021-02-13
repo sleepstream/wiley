@@ -1,0 +1,232 @@
+{
+  "uid" : "7110a0a6bc87486",
+  "name" : "Check education page data",
+  "fullName" : "ui.CheckUiCases.checkEducationPageTest",
+  "historyId" : "a71cfe94eb6e89749f0d4b6e1dae7184",
+  "time" : {
+    "start" : 1613258690937,
+    "stop" : 1613258711876,
+    "duration" : 20939
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "beforeMethod",
+    "time" : {
+      "start" : 1613258669773,
+      "stop" : 1613258690885,
+      "duration" : 21112
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "beforeTest",
+    "time" : {
+      "start" : 1613258669635,
+      "stop" : 1613258669772,
+      "duration" : 137
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Click submenu by name = Education in root menu list SUBJECTS",
+      "time" : {
+        "start" : 1613258690997,
+        "stop" : 1613258694003,
+        "duration" : 3006
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613258690999,
+          "stop" : 1613258691094,
+          "duration" : 95
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613258691095,
+          "stop" : 1613258691125,
+          "duration" : 30
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613258691125,
+          "stop" : 1613258691155,
+          "duration" : 30
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613258691155,
+          "stop" : 1613258691189,
+          "duration" : 34
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Open menu",
+        "time" : {
+          "start" : 1613258691189,
+          "stop" : 1613258691870,
+          "duration" : 681
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "rootMenuName",
+        "value" : "SUBJECTS"
+      }, {
+        "name" : "name",
+        "value" : "Education"
+      } ],
+      "stepsCount" : 5,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Check side panel links",
+      "time" : {
+        "start" : 1613258710293,
+        "stop" : 1613258711876,
+        "duration" : 1583
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "expectedLinks",
+        "value" : "[Information & Library Science, Education & Public Policy, K-12 General, Higher Education General, Vocational Technology, Conflict Resolution & Mediation (School settings), Curriculum Tools- General, Special Educational Needs, Theory of Education, Education Special Topics, Educational Research & Statistics, Literacy & Reading, Classroom Management]"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1613258711883,
+      "stop" : 1613258711995,
+      "duration" : 112
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ui.CheckUiCases"
+  }, {
+    "name" : "testClass",
+    "value" : "ui.CheckUiCases"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkEducationPageTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Tests"
+  }, {
+    "name" : "suite",
+    "value" : "UI tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "ui.CheckUiCases"
+  }, {
+    "name" : "host",
+    "value" : "MacBook.local"
+  }, {
+    "name" : "thread",
+    "value" : "42630@MacBook.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7110a0a6bc87486.json",
+  "parameterValues" : [ ]
+}

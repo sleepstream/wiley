@@ -1,0 +1,20 @@
+{
+  "searchItems" : [
+    {
+      "rootFilterTitle" : "SUBJECT",
+      "subFilterCount": 10,
+      "subFilterItems": [
+        "Computing",
+        "Operating Systems / Linux & UNIX",
+        "Computer Science - General Interest",
+        "Networking",
+        "Programming & Software Development",
+        "Object Technologies - Java",
+        "Web Site Development",
+        "Communication Technology",
+        "Mobile & Wireless Communications",
+        "Communication Technology - Networks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+.idea
+target
+.iml
+allure-results
+/src/main/resources/tmp/
+/build/
+.allure

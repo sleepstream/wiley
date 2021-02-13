@@ -1,0 +1,668 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MacBook.local",
+    "children" : [ {
+      "name" : "42852@MacBook.local.main(1)",
+      "children" : [ {
+        "name" : "Check education page data",
+        "uid" : "3ead34f0bec10291",
+        "parentUid" : "897d44f6fa4984cb1e90cc1da89cc30a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258930933,
+          "stop" : 1613258951825,
+          "duration" : 20892
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check search filters items",
+        "uid" : "cc751a449d050292",
+        "parentUid" : "897d44f6fa4984cb1e90cc1da89cc30a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258970158,
+          "stop" : 1613258975429,
+          "duration" : 5271
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "ui.base.SearchFilter@5f8e3995" ]
+      }, {
+        "name" : "Check delay endpoint results",
+        "uid" : "f9f2f90415b44cd2",
+        "parentUid" : "897d44f6fa4984cb1e90cc1da89cc30a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613258901096,
+          "stop" : 1613258905566,
+          "duration" : 4470
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check png endpoint results",
+        "uid" : "bca414e359ba5893",
+        "parentUid" : "897d44f6fa4984cb1e90cc1da89cc30a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258905712,
+          "stop" : 1613258908917,
+          "duration" : 3205
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check search results page and result items",
+        "uid" : "9f591843a2ae5e4d",
+        "parentUid" : "897d44f6fa4984cb1e90cc1da89cc30a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613258992767,
+          "stop" : 1613259009683,
+          "duration" : 16916
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check search field and results",
+        "uid" : "e88421dadea4b932",
+        "parentUid" : "897d44f6fa4984cb1e90cc1da89cc30a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613259029340,
+          "stop" : 1613259030652,
+          "duration" : 1312
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check nav bar items",
+        "uid" : "1422f351696524be",
+        "parentUid" : "897d44f6fa4984cb1e90cc1da89cc30a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613259047615,
+          "stop" : 1613259048755,
+          "duration" : 1140
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "ui.base.NavBarMenu@33878b16" ]
+      }, {
+        "name" : "Check search results",
+        "uid" : "2295953955f73791",
+        "parentUid" : "897d44f6fa4984cb1e90cc1da89cc30a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258909126,
+          "stop" : 1613258910094,
+          "duration" : 968
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "897d44f6fa4984cb1e90cc1da89cc30a"
+    }, {
+      "name" : "42378@MacBook.local.main(1)",
+      "children" : [ {
+        "name" : "Check search results page and result items",
+        "uid" : "196126703cc47779",
+        "parentUid" : "e0807430e653547164967d34076208b7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613258406615,
+          "stop" : 1613258422993,
+          "duration" : 16378
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check search field and results",
+        "uid" : "e5492257a5d425a6",
+        "parentUid" : "e0807430e653547164967d34076208b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258440713,
+          "stop" : 1613258442012,
+          "duration" : 1299
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check delay endpoint results",
+        "uid" : "31abce78dafa6d78",
+        "parentUid" : "e0807430e653547164967d34076208b7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613258314681,
+          "stop" : 1613258318943,
+          "duration" : 4262
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check search results",
+        "uid" : "92e4ef447ff2f71f",
+        "parentUid" : "e0807430e653547164967d34076208b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258322980,
+          "stop" : 1613258324155,
+          "duration" : 1175
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check nav bar items",
+        "uid" : "4a28e2ff1a8afd6",
+        "parentUid" : "e0807430e653547164967d34076208b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258459547,
+          "stop" : 1613258460674,
+          "duration" : 1127
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "ui.base.NavBarMenu@5fcd88c0" ]
+      }, {
+        "name" : "Check education page data",
+        "uid" : "9fb33a676a0d5bb9",
+        "parentUid" : "e0807430e653547164967d34076208b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258344850,
+          "stop" : 1613258365436,
+          "duration" : 20586
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check png endpoint results",
+        "uid" : "eed262a118c2d8ec",
+        "parentUid" : "e0807430e653547164967d34076208b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258319097,
+          "stop" : 1613258322972,
+          "duration" : 3875
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check search filters items",
+        "uid" : "26f3427a05a1adb0",
+        "parentUid" : "e0807430e653547164967d34076208b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258384021,
+          "stop" : 1613258389226,
+          "duration" : 5205
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "ui.base.SearchFilter@5dca6386" ]
+      } ],
+      "uid" : "e0807430e653547164967d34076208b7"
+    }, {
+      "name" : "42630@MacBook.local.main(1)",
+      "children" : [ {
+        "name" : "Check education page data",
+        "uid" : "7110a0a6bc87486",
+        "parentUid" : "c806ed001610cf49766b528863687dce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258690937,
+          "stop" : 1613258711876,
+          "duration" : 20939
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check search results",
+        "uid" : "ff04ce0c01ceb61d",
+        "parentUid" : "c806ed001610cf49766b528863687dce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258668085,
+          "stop" : 1613258669587,
+          "duration" : 1502
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check png endpoint results",
+        "uid" : "8160989fe0957f42",
+        "parentUid" : "c806ed001610cf49766b528863687dce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258663913,
+          "stop" : 1613258668072,
+          "duration" : 4159
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check search field and results",
+        "uid" : "3a268bf2f569ae4b",
+        "parentUid" : "c806ed001610cf49766b528863687dce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258787739,
+          "stop" : 1613258789010,
+          "duration" : 1271
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check nav bar items",
+        "uid" : "58cd0780acb82f10",
+        "parentUid" : "c806ed001610cf49766b528863687dce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258806271,
+          "stop" : 1613258807447,
+          "duration" : 1176
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "ui.base.NavBarMenu@526b58b7" ]
+      }, {
+        "name" : "Check delay endpoint results",
+        "uid" : "4dd0b3949657b435",
+        "parentUid" : "c806ed001610cf49766b528863687dce",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613258659023,
+          "stop" : 1613258663750,
+          "duration" : 4727
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check search results page and result items",
+        "uid" : "5092e377aab09874",
+        "parentUid" : "c806ed001610cf49766b528863687dce",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613258752810,
+          "stop" : 1613258769395,
+          "duration" : 16585
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check search filters items",
+        "uid" : "5a5573bd8a2b5b8e",
+        "parentUid" : "c806ed001610cf49766b528863687dce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258730357,
+          "stop" : 1613258735404,
+          "duration" : 5047
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "ui.base.SearchFilter@67c65978" ]
+      } ],
+      "uid" : "c806ed001610cf49766b528863687dce"
+    }, {
+      "name" : "42120@MacBook.local.main(1)",
+      "children" : [ {
+        "name" : "Check search field and results",
+        "uid" : "839c5398768beeb3",
+        "parentUid" : "6a4153fe81f85a3e106f5298a12d5a9a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258086107,
+          "stop" : 1613258087417,
+          "duration" : 1310
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check search filters items",
+        "uid" : "3536e375e9717da2",
+        "parentUid" : "6a4153fe81f85a3e106f5298a12d5a9a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258028579,
+          "stop" : 1613258033826,
+          "duration" : 5247
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "ui.base.SearchFilter@321e503" ]
+      }, {
+        "name" : "Check nav bar items",
+        "uid" : "6ab2b48c812ab56c",
+        "parentUid" : "6a4153fe81f85a3e106f5298a12d5a9a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613258105316,
+          "stop" : 1613258106491,
+          "duration" : 1175
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "ui.base.NavBarMenu@1df49e6c" ]
+      }, {
+        "name" : "Check png endpoint results",
+        "uid" : "75533395b4c6b634",
+        "parentUid" : "6a4153fe81f85a3e106f5298a12d5a9a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613257961430,
+          "stop" : 1613257965624,
+          "duration" : 4194
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check delay endpoint results",
+        "uid" : "c54c06fc852d10fa",
+        "parentUid" : "6a4153fe81f85a3e106f5298a12d5a9a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613257956564,
+          "stop" : 1613257961274,
+          "duration" : 4710
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check search results page and result items",
+        "uid" : "411e6152e5f1faca",
+        "parentUid" : "6a4153fe81f85a3e106f5298a12d5a9a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613258051526,
+          "stop" : 1613258068306,
+          "duration" : 16780
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check education page data",
+        "uid" : "62ffbf5bed52c91f",
+        "parentUid" : "6a4153fe81f85a3e106f5298a12d5a9a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613257988279,
+          "stop" : 1613258010461,
+          "duration" : 22182
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check search results",
+        "uid" : "b76016511544138e",
+        "parentUid" : "6a4153fe81f85a3e106f5298a12d5a9a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613257965639,
+          "stop" : 1613257966822,
+          "duration" : 1183
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6a4153fe81f85a3e106f5298a12d5a9a"
+    }, {
+      "name" : "43411@MacBook.local.main(1)",
+      "children" : [ {
+        "name" : "Check search results page and result items",
+        "uid" : "fa9763293ec1790f",
+        "parentUid" : "48946682def31df9f7eef90ace581133",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613260340293,
+          "stop" : 1613260356843,
+          "duration" : 16550
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check nav bar items",
+        "uid" : "b722d54d4b29e208",
+        "parentUid" : "48946682def31df9f7eef90ace581133",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613260393622,
+          "stop" : 1613260395076,
+          "duration" : 1454
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "ui.base.NavBarMenu@2f66d322" ]
+      }, {
+        "name" : "Check education page data",
+        "uid" : "ca161d0d23c7b8fd",
+        "parentUid" : "48946682def31df9f7eef90ace581133",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613260278466,
+          "stop" : 1613260299086,
+          "duration" : 20620
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check search filters items",
+        "uid" : "2098ca72f3415f77",
+        "parentUid" : "48946682def31df9f7eef90ace581133",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613260317059,
+          "stop" : 1613260322612,
+          "duration" : 5553
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "ui.base.SearchFilter@5754fe84" ]
+      }, {
+        "name" : "Check png endpoint results",
+        "uid" : "b1d949eb4badfece",
+        "parentUid" : "48946682def31df9f7eef90ace581133",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613260252207,
+          "stop" : 1613260256022,
+          "duration" : 3815
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check search results",
+        "uid" : "31a84f4002857898",
+        "parentUid" : "48946682def31df9f7eef90ace581133",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613260256026,
+          "stop" : 1613260257507,
+          "duration" : 1481
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check search field and results",
+        "uid" : "43404f841886b2e5",
+        "parentUid" : "48946682def31df9f7eef90ace581133",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613260374660,
+          "stop" : 1613260376236,
+          "duration" : 1576
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Check delay endpoint results",
+        "uid" : "c59334fef904547f",
+        "parentUid" : "48946682def31df9f7eef90ace581133",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613260216763,
+          "stop" : 1613260252015,
+          "duration" : 35252
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "48946682def31df9f7eef90ace581133"
+    }, {
+      "name" : "43291@MacBook.local.main(1)",
+      "children" : [ {
+        "name" : "Check delay endpoint results",
+        "uid" : "5dc6d37152481994",
+        "parentUid" : "b191b8471221fcd67f8a1943a398f298",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613259959960,
+          "stop" : 1613259996097,
+          "duration" : 36137
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b191b8471221fcd67f8a1943a398f298"
+    }, {
+      "name" : "43131@MacBook.local.main(1)",
+      "children" : [ {
+        "name" : "Check delay endpoint results",
+        "uid" : "dd3fff3f62b78bc6",
+        "parentUid" : "15db249965bb66ddbbb700f0888cf2f2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613259492504,
+          "stop" : 1613259497712,
+          "duration" : 5208
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "15db249965bb66ddbbb700f0888cf2f2"
+    }, {
+      "name" : "43184@MacBook.local.main(1)",
+      "children" : [ {
+        "name" : "Check delay endpoint results",
+        "uid" : "1cb8f4968baa37c8",
+        "parentUid" : "0ad9c000af8cb2345714326f8be1a0a9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613259644431,
+          "stop" : 1613259649887,
+          "duration" : 5456
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0ad9c000af8cb2345714326f8be1a0a9"
+    }, {
+      "name" : "43263@MacBook.local.main(1)",
+      "children" : [ {
+        "name" : "Check delay endpoint results",
+        "uid" : "bd4dddd5ea6a6ede",
+        "parentUid" : "5bb80d54cd5a76667126d05ad728c0b9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613259918087,
+          "stop" : 1613259923659,
+          "duration" : 5572
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5bb80d54cd5a76667126d05ad728c0b9"
+    }, {
+      "name" : "43123@MacBook.local.main(1)",
+      "children" : [ {
+        "name" : "Check delay endpoint results",
+        "uid" : "7bd0461fa048a4b8",
+        "parentUid" : "d903918929b15a73c47110b99244e1c9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613259457320,
+          "stop" : 1613259463204,
+          "duration" : 5884
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d903918929b15a73c47110b99244e1c9"
+    }, {
+      "name" : "43223@MacBook.local.main(1)",
+      "children" : [ {
+        "name" : "Check delay endpoint results",
+        "uid" : "f7d0909b2eb8d34d",
+        "parentUid" : "cf43c76e622acd270e91c64230c68b3e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613259766099,
+          "stop" : 1613259801607,
+          "duration" : 35508
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cf43c76e622acd270e91c64230c68b3e"
+    }, {
+      "name" : "43200@MacBook.local.main(1)",
+      "children" : [ {
+        "name" : "Check delay endpoint results",
+        "uid" : "1e5b6e40b6a6bb10",
+        "parentUid" : "9f47d4b24ae96cccdd6fb090904cd06a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613259694108,
+          "stop" : 1613259728396,
+          "duration" : 34288
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9f47d4b24ae96cccdd6fb090904cd06a"
+    } ],
+    "uid" : "3312b4c9b9d487417ab160fe9f6fd13b"
+  } ]
+}
