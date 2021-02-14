@@ -4,22 +4,39 @@
   "children" : [ {
     "name" : "Product defects",
     "children" : [ {
-      "name" : "Element not found {.small-button}\nExpected: visible\nScreenshot: file:/Users/garistov/IdeaProjects/wiley/build/reports/tests/1613260355992.0.png\nPage source: file:/Users/garistov/IdeaProjects/wiley/build/reports/tests/1613260355992.0.html\nTimeout: 10 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".small-button\"}",
+      "name" : "delay is 2 expected 0",
       "children" : [ {
-        "name" : "Check search results page and result items",
-        "uid" : "fa9763293ec1790f",
-        "parentUid" : "0a633b99a6e3eabec9d3843975b4e1f8",
+        "name" : "Check delay endpoint results",
+        "uid" : "507049d24e5a6b2a",
+        "parentUid" : "4951eb3920ad676d4ab6c06f92a63263",
         "status" : "failed",
         "time" : {
-          "start" : 1613260340293,
-          "stop" : 1613260356843,
-          "duration" : 16550
+          "start" : 1613316085983,
+          "stop" : 1613316090940,
+          "duration" : 4957
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api.body.DelayTestsObject@66813e6e" ]
+      } ],
+      "uid" : "4951eb3920ad676d4ab6c06f92a63263"
+    }, {
+      "name" : "Element not found {.small-button}\nExpected: visible\nScreenshot: file:/Users/garistov/IdeaProjects/wiley/build/reports/tests/1613316233362.0.png\nPage source: file:/Users/garistov/IdeaProjects/wiley/build/reports/tests/1613316233362.0.html\nTimeout: 10 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".small-button\"}",
+      "children" : [ {
+        "name" : "Check search results page and result items",
+        "uid" : "f2e89e1d9d75e8b3",
+        "parentUid" : "1f5cadfde8c56f118375cc563744fb03",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613316216832,
+          "stop" : 1613316234156,
+          "duration" : 17324
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "0a633b99a6e3eabec9d3843975b4e1f8"
+      "uid" : "1f5cadfde8c56f118375cc563744fb03"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
   } ]

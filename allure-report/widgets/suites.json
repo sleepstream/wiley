@@ -4,12 +4,12 @@
     "uid" : "8ea1fdc2119fe45b4a705d4e26175fe9",
     "name" : "All Tests",
     "statistic" : {
-      "failed" : 1,
+      "failed" : 2,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 16
+      "total" : 13
     }
   } ]
 }

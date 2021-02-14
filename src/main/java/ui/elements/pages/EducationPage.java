@@ -31,6 +31,14 @@ public class EducationPage {
     @FindBy(css = ".side-panel")
     private SidePanel sidePanel;
 
+    @FindBy(css =".hero-banner .wiley-slogan > h1:nth-child(3)")
+    private SelenideElement pageHeader;
+
+    @Step("Check page header")
+    public void checkPageHeader() {
+        pageHeader.shouldHave(Condition.exactTextCaseSensitive("Education"));
+    }
+
     @Step("Check side panel links")
     public void checkPanelLinks(List<String> expectedLinks) {
         sidePanel.checkPanelLinks(expectedLinks);

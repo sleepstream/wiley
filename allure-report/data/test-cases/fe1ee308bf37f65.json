@@ -1,0 +1,375 @@
+{
+  "uid" : "fe1ee308bf37f65",
+  "name" : "Check nav bar items",
+  "fullName" : "ui.CheckUiCases.mainPageNavBarTest",
+  "historyId" : "4b54ea8651db45b3923a4851d5fc6c52",
+  "time" : {
+    "start" : 1613316273671,
+    "stop" : 1613316274947,
+    "duration" : 1276
+  },
+  "description" : "Test check title of root menu in nav bar, check count of sub-menu items under root,  check titles of sub-menu items",
+  "descriptionHtml" : "<p>Test check title of root menu in nav bar, check count of sub-menu items under root,  check titles of sub-menu items</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "beforeMethod",
+    "time" : {
+      "start" : 1613316255103,
+      "stop" : 1613316273666,
+      "duration" : 18563
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "beforeTest",
+    "time" : {
+      "start" : 1613316128312,
+      "stop" : 1613316128681,
+      "duration" : 369
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test check title of root menu in nav bar, check count of sub-menu items under root,  check titles of sub-menu items",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Open menu by root name = {name}",
+      "time" : {
+        "start" : 1613316273672,
+        "stop" : 1613316274321,
+        "duration" : 649
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613316273673,
+          "stop" : 1613316273718,
+          "duration" : 45
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613316273718,
+          "stop" : 1613316273751,
+          "duration" : 33
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613316273751,
+          "stop" : 1613316273785,
+          "duration" : 34
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613316273785,
+          "stop" : 1613316273817,
+          "duration" : 32
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Open menu",
+        "time" : {
+          "start" : 1613316273817,
+          "stop" : 1613316274321,
+          "duration" : 504
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "rootMenuName",
+        "value" : "WHO WE SERVE"
+      } ],
+      "stepsCount" : 5,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Check count of sub menu items under {rootMenuName}",
+      "time" : {
+        "start" : 1613316274321,
+        "stop" : 1613316274410,
+        "duration" : 89
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613316274322,
+          "stop" : 1613316274344,
+          "duration" : 22
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613316274344,
+          "stop" : 1613316274365,
+          "duration" : 21
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613316274366,
+          "stop" : 1613316274388,
+          "duration" : 22
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613316274388,
+          "stop" : 1613316274410,
+          "duration" : 22
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "navBarMenu",
+        "value" : "ui.base.NavBarMenu@569febba"
+      } ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Check title of sub menu items under {rootMenuName}",
+      "time" : {
+        "start" : 1613316274410,
+        "stop" : 1613316274946,
+        "duration" : 536
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613316274411,
+          "stop" : 1613316274433,
+          "duration" : 22
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613316274433,
+          "stop" : 1613316274455,
+          "duration" : 22
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613316274455,
+          "stop" : 1613316274524,
+          "duration" : 69
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613316274524,
+          "stop" : 1613316274546,
+          "duration" : 22
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "navBarMenu",
+        "value" : "ui.base.NavBarMenu@569febba"
+      } ],
+      "stepsCount" : 4,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 16,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1613316274949,
+      "stop" : 1613316275060,
+      "duration" : 111
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ui.CheckUiCases"
+  }, {
+    "name" : "testClass",
+    "value" : "ui.CheckUiCases"
+  }, {
+    "name" : "testMethod",
+    "value" : "mainPageNavBarTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Tests"
+  }, {
+    "name" : "suite",
+    "value" : "UI tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "ui.CheckUiCases"
+  }, {
+    "name" : "host",
+    "value" : "MacBook.local"
+  }, {
+    "name" : "thread",
+    "value" : "47999@MacBook.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "ui.base.NavBarMenu@569febba"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe1ee308bf37f65.json",
+  "parameterValues" : [ "ui.base.NavBarMenu@569febba" ]
+}

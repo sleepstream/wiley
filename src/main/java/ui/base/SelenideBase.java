@@ -22,6 +22,7 @@ public abstract class SelenideBase  {
         options.addArguments("--no-sandbox");
         options.addArguments("--window-size=1200,768");
         options.addArguments("--lang=ru-RU");
+        //to avoid 403 error in headless mode
         options.addArguments("user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36");
         Configuration.browserCapabilities = new MutableCapabilities(options);
         Configuration.screenshots = true;

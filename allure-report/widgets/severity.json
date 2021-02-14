@@ -1,161 +1,131 @@
 [ {
-  "uid" : "1422f351696524be",
-  "name" : "Check nav bar items",
+  "uid" : "cfc643eee326f5b9",
+  "name" : "Check delay endpoint results",
   "time" : {
-    "start" : 1613259047615,
-    "stop" : 1613259048755,
-    "duration" : 1140
+    "start" : 1613316099797,
+    "stop" : 1613316110669,
+    "duration" : 10872
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6ab2b48c812ab56c",
-  "name" : "Check nav bar items",
+  "uid" : "26070652da388819",
+  "name" : "Check delay endpoint results",
   "time" : {
-    "start" : 1613258105316,
-    "stop" : 1613258106491,
-    "duration" : 1175
+    "start" : 1613316092024,
+    "stop" : 1613316093977,
+    "duration" : 1953
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b722d54d4b29e208",
-  "name" : "Check nav bar items",
+  "uid" : "88e446ae897f321f",
+  "name" : "Check search filters items",
   "time" : {
-    "start" : 1613260393622,
-    "stop" : 1613260395076,
-    "duration" : 1454
+    "start" : 1613316192081,
+    "stop" : 1613316197646,
+    "duration" : 5565
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "fa9763293ec1790f",
+  "uid" : "a6136a0071283ffa",
+  "name" : "Check delay endpoint results",
+  "time" : {
+    "start" : 1613316091177,
+    "stop" : 1613316092019,
+    "duration" : 842
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe1ee308bf37f65",
+  "name" : "Check nav bar items",
+  "time" : {
+    "start" : 1613316273671,
+    "stop" : 1613316274947,
+    "duration" : 1276
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f55dc4ef86ec87f",
+  "name" : "Check delay endpoint results",
+  "time" : {
+    "start" : 1613316110677,
+    "stop" : 1613316121533,
+    "duration" : 10856
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ffb5094b4a36af9",
+  "name" : "Check delay endpoint results",
+  "time" : {
+    "start" : 1613316093982,
+    "stop" : 1613316099790,
+    "duration" : 5808
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2e89e1d9d75e8b3",
   "name" : "Check search results page and result items",
   "time" : {
-    "start" : 1613260340293,
-    "stop" : 1613260356843,
-    "duration" : 16550
+    "start" : 1613316216832,
+    "stop" : 1613316234156,
+    "duration" : 17324
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "43404f841886b2e5",
-  "name" : "Check search field and results",
-  "time" : {
-    "start" : 1613260374660,
-    "stop" : 1613260376236,
-    "duration" : 1576
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5a5573bd8a2b5b8e",
-  "name" : "Check search filters items",
-  "time" : {
-    "start" : 1613258730357,
-    "stop" : 1613258735404,
-    "duration" : 5047
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c59334fef904547f",
-  "name" : "Check delay endpoint results",
-  "time" : {
-    "start" : 1613260216763,
-    "stop" : 1613260252015,
-    "duration" : 35252
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ca161d0d23c7b8fd",
-  "name" : "Check education page data",
-  "time" : {
-    "start" : 1613260278466,
-    "stop" : 1613260299086,
-    "duration" : 20620
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4a28e2ff1a8afd6",
-  "name" : "Check nav bar items",
-  "time" : {
-    "start" : 1613258459547,
-    "stop" : 1613258460674,
-    "duration" : 1127
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "26f3427a05a1adb0",
-  "name" : "Check search filters items",
-  "time" : {
-    "start" : 1613258384021,
-    "stop" : 1613258389226,
-    "duration" : 5205
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b1d949eb4badfece",
-  "name" : "Check png endpoint results",
-  "time" : {
-    "start" : 1613260252207,
-    "stop" : 1613260256022,
-    "duration" : 3815
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "58cd0780acb82f10",
-  "name" : "Check nav bar items",
-  "time" : {
-    "start" : 1613258806271,
-    "stop" : 1613258807447,
-    "duration" : 1176
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2098ca72f3415f77",
-  "name" : "Check search filters items",
-  "time" : {
-    "start" : 1613260317059,
-    "stop" : 1613260322612,
-    "duration" : 5553
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cc751a449d050292",
-  "name" : "Check search filters items",
-  "time" : {
-    "start" : 1613258970158,
-    "stop" : 1613258975429,
-    "duration" : 5271
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3536e375e9717da2",
-  "name" : "Check search filters items",
-  "time" : {
-    "start" : 1613258028579,
-    "stop" : 1613258033826,
-    "duration" : 5247
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "31a84f4002857898",
+  "uid" : "1259cf620716411f",
   "name" : "Check search results",
   "time" : {
-    "start" : 1613260256026,
-    "stop" : 1613260257507,
-    "duration" : 1481
+    "start" : 1613316126721,
+    "stop" : 1613316128180,
+    "duration" : 1459
   },
   "status" : "passed",
   "severity" : "critical"
+}, {
+  "uid" : "311bba59001f6523",
+  "name" : "Check search field and results",
+  "time" : {
+    "start" : 1613316253636,
+    "stop" : 1613316254983,
+    "duration" : 1347
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb2641b0dfe3ed6c",
+  "name" : "Check education page data",
+  "time" : {
+    "start" : 1613316152591,
+    "stop" : 1613316173259,
+    "duration" : 20668
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45fe4c01de23528",
+  "name" : "Check png endpoint results",
+  "time" : {
+    "start" : 1613316121541,
+    "stop" : 1613316126701,
+    "duration" : 5160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "507049d24e5a6b2a",
+  "name" : "Check delay endpoint results",
+  "time" : {
+    "start" : 1613316085983,
+    "stop" : 1613316090940,
+    "duration" : 4957
+  },
+  "status" : "failed",
+  "severity" : "normal"
 } ]

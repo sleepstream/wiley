@@ -1,0 +1,252 @@
+{
+  "uid" : "cb2641b0dfe3ed6c",
+  "name" : "Check education page data",
+  "fullName" : "ui.CheckUiCases.checkEducationPageTest",
+  "historyId" : "a71cfe94eb6e89749f0d4b6e1dae7184",
+  "time" : {
+    "start" : 1613316152591,
+    "stop" : 1613316173259,
+    "duration" : 20668
+  },
+  "description" : "• Check “Education” header is displayed \n• 13 items are displayed under “Subjects” on the left side of the screen and the texts are: \"Information & Library Science\",\"Education & Public Policy\", \"K-12 General\", \"Higher Education General\", \"Vocational Technology\", \"Conflict Resolution & Mediation (School settings)\", \"Curriculum Tools- General\", \"Special Educational Needs\", \"Theory of Education\", \"Education Special Topics\", \"Educational Research & Statistics\", \"Literacy & Reading\", \"Classroom Management\"\n",
+  "descriptionHtml" : "<p>• Check “Education” header is displayed\n• 13 items are displayed under “Subjects” on the left side of the screen and the texts are: &quot;Information &amp; Library Science&quot;,&quot;Education &amp; Public Policy&quot;, &quot;K-12 General&quot;, &quot;Higher Education General&quot;, &quot;Vocational Technology&quot;, &quot;Conflict Resolution &amp; Mediation (School settings)&quot;, &quot;Curriculum Tools- General&quot;, &quot;Special Educational Needs&quot;, &quot;Theory of Education&quot;, &quot;Education Special Topics&quot;, &quot;Educational Research &amp; Statistics&quot;, &quot;Literacy &amp; Reading&quot;, &quot;Classroom Management&quot;</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "beforeMethod",
+    "time" : {
+      "start" : 1613316128685,
+      "stop" : 1613316152554,
+      "duration" : 23869
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "beforeTest",
+    "time" : {
+      "start" : 1613316128312,
+      "stop" : 1613316128681,
+      "duration" : 369
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "• Check “Education” header is displayed \n• 13 items are displayed under “Subjects” on the left side of the screen and the texts are: \"Information & Library Science\",\"Education & Public Policy\", \"K-12 General\", \"Higher Education General\", \"Vocational Technology\", \"Conflict Resolution & Mediation (School settings)\", \"Curriculum Tools- General\", \"Special Educational Needs\", \"Theory of Education\", \"Education Special Topics\", \"Educational Research & Statistics\", \"Literacy & Reading\", \"Classroom Management\"\n",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Click submenu by name = Education in root menu list SUBJECTS",
+      "time" : {
+        "start" : 1613316152632,
+        "stop" : 1613316155972,
+        "duration" : 3340
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613316152634,
+          "stop" : 1613316152746,
+          "duration" : 112
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613316152747,
+          "stop" : 1613316152779,
+          "duration" : 32
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613316152780,
+          "stop" : 1613316152814,
+          "duration" : 34
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Get menu title",
+        "time" : {
+          "start" : 1613316152814,
+          "stop" : 1613316152844,
+          "duration" : 30
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "Open menu",
+        "time" : {
+          "start" : 1613316152845,
+          "stop" : 1613316153481,
+          "duration" : 636
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "rootMenuName",
+        "value" : "SUBJECTS"
+      }, {
+        "name" : "name",
+        "value" : "Education"
+      } ],
+      "stepsCount" : 5,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Check page header",
+      "time" : {
+        "start" : 1613316171639,
+        "stop" : 1613316171667,
+        "duration" : 28
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Check side panel links",
+      "time" : {
+        "start" : 1613316171667,
+        "stop" : 1613316173258,
+        "duration" : 1591
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "expectedLinks",
+        "value" : "[Information & Library Science, Education & Public Policy, K-12 General, Higher Education General, Vocational Technology, Conflict Resolution & Mediation (School settings), Curriculum Tools- General, Special Educational Needs, Theory of Education, Education Special Topics, Educational Research & Statistics, Literacy & Reading, Classroom Management]"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1613316173268,
+      "stop" : 1613316173380,
+      "duration" : 112
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ui.CheckUiCases"
+  }, {
+    "name" : "testClass",
+    "value" : "ui.CheckUiCases"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkEducationPageTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Tests"
+  }, {
+    "name" : "suite",
+    "value" : "UI tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "ui.CheckUiCases"
+  }, {
+    "name" : "host",
+    "value" : "MacBook.local"
+  }, {
+    "name" : "thread",
+    "value" : "47999@MacBook.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb2641b0dfe3ed6c.json",
+  "parameterValues" : [ ]
+}
